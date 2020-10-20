@@ -1,0 +1,5 @@
+Ce TP est fait de fonctions faites "main", autrement dit l'optimisation n'est pas la recherche des fonctions construites. 
+En revanche, certaines analyses algebrique nous permettent de comprendre les phenomenes qu'une fonction faite "main" peut rencontrer.
+Chaque bouton est utile pour repondre aux questions posees dans le sujet du TP.
+Il est alors possible de decomposer une matrice A en produit de deux matrices QR, de resoudre un systeme lineaire Ax = b avec la methode de decomposition evoquee.
+De meme, une comparaison des methodes vues en cours peut etre effectuee avec l'experimentation des methodes.
