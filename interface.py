@@ -97,3 +97,7 @@ quitter.config(font = labelfont2)
 aide = Button(window, text = 'Aide', command = info)
 aide.grid(row = 8, column = 4)
 aide.config(font = labelfont2)
+
+
+
+window.mainloop()
